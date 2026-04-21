@@ -1,1 +1,5 @@
-
+-- =========================================
+-- ETL DATA CLEANING PROJECT
+-- Author: Kaan Alp Özdemir
+-- Description: Raw data cleaning and transformation process
+-- =========================================
