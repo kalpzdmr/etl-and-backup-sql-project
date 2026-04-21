@@ -78,3 +78,58 @@ This project was developed to demonstrate real-world database management concept
 * Data quality improvement
 * Process automation
 * Monitoring and logging systems
+
+* ## 📊 ETL Process Outputs
+
+### Clean Data
+
+![Clean Data](images/clean_data.png)
+
+### Reject Data
+
+![Reject Data](images/reject_data.png)
+
+### ETL Logs
+
+![ETL Logs](images/etl_log.png)
+
+### ETL Summary
+
+![ETL Summary](images/etl_summary.png)
+
+### Data Comparison (Before / After)
+
+![Data Comparison](images/data_comparison.png)
+
+### Error Distribution
+
+![Error Distribution](images/error_distribution.png)
+
+### City Distribution
+
+![City Distribution](images/city_distribution.png)
+
+### Email Error Count
+
+![Email Error](images/email_error_count.png)
+
+### Phone Error Count
+
+![Phone Error](images/phone_error_count.png)
+
+### Date Error Count
+
+![Date Error](images/date_error_count.png)
+
+---
+
+## 💾 Backup System Outputs
+
+### Backup System Overview
+
+![Backup System](images/backup_system_overview.png)
+
+### Backup Validation (System Tables)
+
+![Backup Validation](images/backup_validation.png)
+
