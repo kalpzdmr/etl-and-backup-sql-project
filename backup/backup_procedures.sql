@@ -1,1 +1,5 @@
-
+-- =========================================
+-- DATABASE BACKUP AUTOMATION PROJECT
+-- Author: Kaan Alp Özdemir
+-- Description: Full and differential backup with logging and alert system
+-- =========================================
